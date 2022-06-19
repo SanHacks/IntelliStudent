@@ -23,7 +23,7 @@ $user_id = $_SESSION['user_id'];
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
-        <title>IntelliFeed</title>
+        <title>IS</title>
 		 <!-- Path to Framework7 Library CSS-->
 		 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<link rel="stylesheet" href="css/framework7.material.min.css">
